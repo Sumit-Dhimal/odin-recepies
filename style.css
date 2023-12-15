@@ -1,0 +1,21 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+h1 {
+    text-align: center;
+}
+
+.recepies {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+.recepies li {
+    padding-left: 20px;
+}
